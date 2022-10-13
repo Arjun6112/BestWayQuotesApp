@@ -39,8 +39,7 @@ class MyApp extends StatelessWidget {
         ),
         home: const AuthWrapper(),
         routes: {
-          EmailPasswordSignup.routeName: (context) =>
-              const EmailPasswordSignup(),
+          EmailPasswordSignup.routeName: (context) => const HomeScreen(),
         },
       ),
     );

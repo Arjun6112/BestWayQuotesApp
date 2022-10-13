@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_api_login/main.dart';
 import 'package:flutter_api_login/screens/home_screen.dart';
 import 'package:flutter_api_login/screens/login_screen.dart';
 import 'package:flutter_api_login/services/firebase_auth_methods.dart';
@@ -24,8 +25,7 @@ class _EmailPasswordSignupState extends State<EmailPasswordSignup> {
           password: passwordController.text,
           context: context,
         );
-    Navigator.of(context)
-        .pop(MaterialPageRoute(builder: (context) => HomeScreen()));
+    Navigator.pop(context);
   }
 
   @override
