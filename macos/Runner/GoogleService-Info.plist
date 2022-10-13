@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382833184004-jcp5tq50ssgoa0a4q46j3bbo8jlsgboh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382833184004-jcp5tq50ssgoa0a4q46j3bbo8jlsgboh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBh_uIaOtWqcp9kRUFNUrICcvP99x6s2A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382833184004</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApiLogin</string>
+	<key>PROJECT_ID</key>
+	<string>bestwayquotes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bestwayquotes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382833184004:ios:d942900951ac82e27c9451</string>
+</dict>
+</plist>

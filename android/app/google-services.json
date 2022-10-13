@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382833184004",
+    "project_id": "bestwayquotes",
+    "storage_bucket": "bestwayquotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382833184004:android:33b6b58b9fe17d277c9451",
+        "android_client_info": {
+          "package_name": "com.example.flutter_api_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382833184004-3j5grjqhdv8v25oacdhmgjn0nf1kp3om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKXzPR4IBDx8CvOkSUJ-mZzX6BZ4mgEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382833184004-3j5grjqhdv8v25oacdhmgjn0nf1kp3om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
